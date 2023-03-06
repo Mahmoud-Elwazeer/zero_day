@@ -1,3 +1,3 @@
 ## First project
 
-    * This is My first project in ALX
+    1. This is My first project in ALX
